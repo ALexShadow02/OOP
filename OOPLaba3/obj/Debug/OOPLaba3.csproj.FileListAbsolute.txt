@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\OOPLaba3\obj\Debug\OOPLaba3.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OOPLaba3\obj\Debug\OOPLaba3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOPLaba3\bin\Debug\OOPLaba3.exe.config
+C:\Users\Admin\source\repos\OOPLaba3\bin\Debug\OOPLaba3.exe
+C:\Users\Admin\source\repos\OOPLaba3\bin\Debug\OOPLaba3.pdb
+C:\Users\Admin\source\repos\OOPLaba3\obj\Debug\OOPLaba3.exe
+C:\Users\Admin\source\repos\OOPLaba3\obj\Debug\OOPLaba3.pdb
